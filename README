@@ -1,0 +1,7 @@
+This is a collection of files that will probably come in handy, but aren't essential.
+
+Currently, this is limited to my collection of library and include files that have
+more or less become a tangled mess and ended up in a single directory. There aren't
+many ARToolkit packages floating around, so the easiest option is to dump the libs.tar.gz
+file in your ${LH} directory (see the scripts repository).
+
